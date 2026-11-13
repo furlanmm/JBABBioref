@@ -1,0 +1,18 @@
+/mnt/nfs/home/mafurlan/GitProjects/BiorefinaryProjects/mainMPBRAP.py:105: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value 'Solution Time' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+  dadosSaida.loc["Description","Week 0"] = 'Solution Time'
+/mnt/nfs/home/mafurlan/GitProjects/BiorefinaryProjects/mainMPBRAP.py:107: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value 'Start' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+  dadosSaida.loc["Description","Week1"] = processTimes[0][0]
+/mnt/nfs/home/mafurlan/GitProjects/BiorefinaryProjects/mainMPBRAP.py:110: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value 'L1 mathematical model' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+  dadosSaida.loc["Description","Week"+str(i)] = processTimes[i][0]
+/mnt/nfs/home/mafurlan/GitProjects/BiorefinaryProjects/mainMPBRAP.py:110: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value 'L1 solving process' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+  dadosSaida.loc["Description","Week"+str(i)] = processTimes[i][0]
+/mnt/nfs/home/mafurlan/GitProjects/BiorefinaryProjects/mainMPBRAP.py:110: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value 'L2 data file' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+  dadosSaida.loc["Description","Week"+str(i)] = processTimes[i][0]
+/mnt/nfs/home/mafurlan/GitProjects/BiorefinaryProjects/mainMPBRAP.py:110: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value 'L2 param construction' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+  dadosSaida.loc["Description","Week"+str(i)] = processTimes[i][0]
+/mnt/nfs/home/mafurlan/GitProjects/BiorefinaryProjects/mainMPBRAP.py:110: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value 'L2 mathematical model' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+  dadosSaida.loc["Description","Week"+str(i)] = processTimes[i][0]
+/mnt/nfs/home/mafurlan/GitProjects/BiorefinaryProjects/mainMPBRAP.py:110: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value 'L2 solving process' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+  dadosSaida.loc["Description","Week"+str(i)] = processTimes[i][0]
+/mnt/nfs/home/mafurlan/GitProjects/BiorefinaryProjects/mainMPBRAP.py:110: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise an error in a future version of pandas. Value 'End' has dtype incompatible with float64, please explicitly cast to a compatible dtype first.
+  dadosSaida.loc["Description","Week"+str(i)] = processTimes[i][0]

@@ -1,0 +1,184 @@
+Set parameter TokenServer to value "143.107.183.123"
+Gurobi Optimizer version 11.0.0 build v11.0.0rc2 (linux64 - "CentOS Linux 7 (Core)")
+
+CPU model: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz, instruction set [SSE2|AVX]
+Thread count: 20 physical cores, 40 logical processors, using up to 20 threads
+
+Optimize a model with 2314 rows, 3000 columns and 6475 nonzeros
+Model fingerprint: 0xa20085a1
+Coefficient statistics:
+  Matrix range     [9e-02, 2e+00]
+  Objective range  [3e+00, 1e+05]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+08]
+Presolve removed 1923 rows and 1804 columns
+Presolve time: 0.00s
+Presolved: 391 rows, 1196 columns, 3153 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.1958301e+10   2.829620e+06   0.000000e+00      0s
+     688    6.3476964e+08   0.000000e+00   0.000000e+00      0s
+
+Solved in 688 iterations and 0.01 seconds (0.01 work units)
+Optimal objective  6.347696390e+08
+Set parameter TokenServer to value "143.107.183.123"
+Gurobi Optimizer version 11.0.0 build v11.0.0rc2 (linux64 - "CentOS Linux 7 (Core)")
+
+CPU model: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz, instruction set [SSE2|AVX]
+Thread count: 20 physical cores, 40 logical processors, using up to 20 threads
+
+Optimize a model with 2314 rows, 3000 columns and 6475 nonzeros
+Model fingerprint: 0xa20085a1
+Coefficient statistics:
+  Matrix range     [9e-02, 2e+00]
+  Objective range  [3e+00, 1e+05]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+08]
+Presolve removed 1923 rows and 1804 columns
+Presolve time: 0.00s
+Presolved: 391 rows, 1196 columns, 3153 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.1958301e+10   2.829620e+06   0.000000e+00      0s
+     688    6.3476964e+08   0.000000e+00   0.000000e+00      0s
+
+Solved in 688 iterations and 0.01 seconds (0.01 work units)
+Optimal objective  6.347696390e+08
+Set parameter TokenServer to value "143.107.183.123"
+Gurobi Optimizer version 11.0.0 build v11.0.0rc2 (linux64 - "CentOS Linux 7 (Core)")
+
+CPU model: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz, instruction set [SSE2|AVX]
+Thread count: 20 physical cores, 40 logical processors, using up to 20 threads
+
+Optimize a model with 2314 rows, 3000 columns and 6475 nonzeros
+Model fingerprint: 0xa20085a1
+Coefficient statistics:
+  Matrix range     [9e-02, 2e+00]
+  Objective range  [3e+00, 1e+05]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+08]
+Presolve removed 1923 rows and 1804 columns
+Presolve time: 0.00s
+Presolved: 391 rows, 1196 columns, 3153 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.1958301e+10   2.829620e+06   0.000000e+00      0s
+     688    6.3476964e+08   0.000000e+00   0.000000e+00      0s
+
+Solved in 688 iterations and 0.01 seconds (0.01 work units)
+Optimal objective  6.347696390e+08
+Set parameter TokenServer to value "143.107.183.123"
+Gurobi Optimizer version 11.0.0 build v11.0.0rc2 (linux64 - "CentOS Linux 7 (Core)")
+
+CPU model: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz, instruction set [SSE2|AVX]
+Thread count: 20 physical cores, 40 logical processors, using up to 20 threads
+
+Optimize a model with 2314 rows, 3000 columns and 6475 nonzeros
+Model fingerprint: 0xa20085a1
+Coefficient statistics:
+  Matrix range     [9e-02, 2e+00]
+  Objective range  [3e+00, 1e+05]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+08]
+Presolve removed 1923 rows and 1804 columns
+Presolve time: 0.00s
+Presolved: 391 rows, 1196 columns, 3153 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.1958301e+10   2.829620e+06   0.000000e+00      0s
+     688    6.3476964e+08   0.000000e+00   0.000000e+00      0s
+
+Solved in 688 iterations and 0.01 seconds (0.01 work units)
+Optimal objective  6.347696390e+08
+Set parameter TokenServer to value "143.107.183.123"
+Gurobi Optimizer version 11.0.0 build v11.0.0rc2 (linux64 - "CentOS Linux 7 (Core)")
+
+CPU model: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz, instruction set [SSE2|AVX]
+Thread count: 20 physical cores, 40 logical processors, using up to 20 threads
+
+Optimize a model with 2314 rows, 3000 columns and 6475 nonzeros
+Model fingerprint: 0xa20085a1
+Coefficient statistics:
+  Matrix range     [9e-02, 2e+00]
+  Objective range  [3e+00, 1e+05]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+08]
+Presolve removed 1923 rows and 1804 columns
+Presolve time: 0.00s
+Presolved: 391 rows, 1196 columns, 3153 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.1958301e+10   2.829620e+06   0.000000e+00      0s
+     688    6.3476964e+08   0.000000e+00   0.000000e+00      0s
+
+Solved in 688 iterations and 0.01 seconds (0.01 work units)
+Optimal objective  6.347696390e+08
+Set parameter TokenServer to value "143.107.183.123"
+Gurobi Optimizer version 11.0.0 build v11.0.0rc2 (linux64 - "CentOS Linux 7 (Core)")
+
+CPU model: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz, instruction set [SSE2|AVX]
+Thread count: 20 physical cores, 40 logical processors, using up to 20 threads
+
+Optimize a model with 2314 rows, 3000 columns and 6475 nonzeros
+Model fingerprint: 0xa20085a1
+Coefficient statistics:
+  Matrix range     [9e-02, 2e+00]
+  Objective range  [3e+00, 1e+05]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+08]
+Presolve removed 1923 rows and 1804 columns
+Presolve time: 0.00s
+Presolved: 391 rows, 1196 columns, 3153 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.1958301e+10   2.829620e+06   0.000000e+00      0s
+     688    6.3476964e+08   0.000000e+00   0.000000e+00      0s
+
+Solved in 688 iterations and 0.01 seconds (0.01 work units)
+Optimal objective  6.347696390e+08
+Set parameter TokenServer to value "143.107.183.123"
+Gurobi Optimizer version 11.0.0 build v11.0.0rc2 (linux64 - "CentOS Linux 7 (Core)")
+
+CPU model: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz, instruction set [SSE2|AVX]
+Thread count: 20 physical cores, 40 logical processors, using up to 20 threads
+
+Optimize a model with 2314 rows, 3000 columns and 6475 nonzeros
+Model fingerprint: 0xa20085a1
+Coefficient statistics:
+  Matrix range     [9e-02, 2e+00]
+  Objective range  [3e+00, 1e+05]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+08]
+Presolve removed 1923 rows and 1804 columns
+Presolve time: 0.00s
+Presolved: 391 rows, 1196 columns, 3153 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.1958301e+10   2.829620e+06   0.000000e+00      0s
+     688    6.3476964e+08   0.000000e+00   0.000000e+00      0s
+
+Solved in 688 iterations and 0.01 seconds (0.01 work units)
+Optimal objective  6.347696390e+08
+Set parameter TokenServer to value "143.107.183.123"
+Gurobi Optimizer version 11.0.0 build v11.0.0rc2 (linux64 - "CentOS Linux 7 (Core)")
+
+CPU model: Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHz, instruction set [SSE2|AVX]
+Thread count: 20 physical cores, 40 logical processors, using up to 20 threads
+
+Optimize a model with 2314 rows, 3000 columns and 6475 nonzeros
+Model fingerprint: 0xa20085a1
+Coefficient statistics:
+  Matrix range     [9e-02, 2e+00]
+  Objective range  [3e+00, 1e+05]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 3e+08]
+Presolve removed 1923 rows and 1804 columns
+Presolve time: 0.00s
+Presolved: 391 rows, 1196 columns, 3153 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    3.1958301e+10   2.829620e+06   0.000000e+00      0s
+     688    6.3476964e+08   0.000000e+00   0.000000e+00      0s
+
+Solved in 688 iterations and 0.01 seconds (0.01 work units)
+Optimal objective  6.347696390e+08
