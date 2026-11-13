@@ -1,0 +1,113 @@
+%% 
+%% Copyright 2007-2020 Elsevier Ltd
+%% 
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%% 
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.2 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.2 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%% 
+%% The list of all files belonging to the 'Elsarticle Bundle' is
+%% given in the file `manifest.txt'.
+%% 
+
+%% Template article for Elsevier's document class `elsarticle'
+%% with numbered style bibliographic references
+%% SP 2008/03/01
+%%
+%% 
+%%
+%% $Id: elsarticle-template-num.tex 190 2020-11-23 11:12:32Z rishi $
+%%
+%%
+\documentclass[preprint,12pt]{elsarticle}
+\usepackage[a4paper, left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
+%% Use the option review to obtain double line spacing
+%% \documentclass[authoryear,preprint,review,12pt]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times]{elsarticle}
+%% \documentclass[final,1p,times,twocolumn]{elsarticle}
+%% \documentclass[final,3p,times]{elsarticle}
+%% \documentclass[final,3p,times,twocolumn]{elsarticle}
+%% \documentclass[final,5p,times]{elsarticle}
+%% \documentclass[final,5p,times,twocolumn]{elsarticle}
+
+%% For including figures, graphicx.sty has been loaded in
+%% elsarticle.cls. If you prefer to use the old commands
+%% please give \usepackage{epsfig}
+
+%% The amssymb package provides various useful mathematical symbols
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{comment}
+\usepackage{tikz}
+\usepackage{pgf}
+\usepackage{lmodern}
+
+% Matplotlib used the following preamble
+   \def\mathdefault#1{#1}
+   \everymath=\expandafter{\the\everymath\displaystyle}
+   
+   \ifdefined\pdftexversion\else  % non-pdftex case.
+     \usepackage{fontspec}
+   \fi
+   \makeatletter\@ifpackageloaded{underscore}{}{\usepackage[strings]{underscore}}\makeatother
+
+%% The amsthm package provides extended theorem environments
+%% \usepackage{amsthm}
+
+%% The lineno packages adds line numbers. Start line numbering with
+%% \begin{linenumbers}, end it with \end{linenumbers}. Or switch it on
+%% for the whole article with \linenumbers.
+\usepackage{lineno}
+
+%\journal{Nuclear Physics B}
+\allowdisplaybreaks
+\begin{document}
+
+
+\begin{figure}[!ht]
+    \input{Sugarcane.pgf}
+    %\caption{Cana Mo�da durante o horizonte de planejamento}
+\end{figure}
+
+\begin{figure}[!ht]
+    \input{Production.pgf}
+    %\caption{Consumo e Produ��o de Vinha�a}
+\end{figure}
+\newpage
+\begin{figure}[!ht]
+    \input{Vinasse.pgf}
+    %\caption{Consumo e Produ��o de Vinha�a}
+\end{figure}
+
+\begin{figure}[!ht]
+    \input{Cake.pgf}
+   % \caption{Consumo e Produ��o de Torta de Filtro}
+\end{figure}
+
+\begin{figure}[!ht]
+    \input{Biogas.pgf}
+    %\caption{Produ��o e Consumo de Biog�s e Biometano}
+\end{figure}
+\newpage
+\begin{figure}[!ht]
+    \input{EnergyProd.pgf}
+  %  \caption{Produ��o de Energia El�trica por fonte geradora}
+\end{figure}
+
+\begin{figure}[!ht]
+    \input{EnergyUse.pgf}
+    %\caption{Consumo de Energia El�trica por fonte consumidora}
+\end{figure}
+
+\end{document}
+%%
+%% End of file `elsarticle-template-num.tex'.

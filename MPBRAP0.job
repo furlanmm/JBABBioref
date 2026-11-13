@@ -1,0 +1,16 @@
+#PBS -l select=1:ncpus=32
+#PBS -l walltime=10:00:00
+#PBS -N MPBRAP0
+
+module load python/3.10.1-2
+module load gurobi/11.0.1
+
+cd ~/GitProjects/BiorefinaryProjects/
+python3 mainMPBRAP.py ./updatedData/data.xlsx ./updatedData/dataMillBioP1C1.xlsx ./out P1C1
+python3 mainMPBRAP.py ./updatedData/data.xlsx ./updatedData/dataMillBioP1C2.xlsx ./out P1C2
+python3 mainMPBRAP.py ./updatedData/data.xlsx ./updatedData/dataMillBioP2C1.xlsx ./out P2C1
+python3 mainMPBRAP.py ./updatedData/data.xlsx ./updatedData/dataMillBioP2C2.xlsx ./out P2C2
+python3 mainMPBRAP.py ./updatedData/data.xlsx ./updatedData/dataMillBioP3C1.xlsx ./out P3C1
+python3 mainMPBRAP.py ./updatedData/data.xlsx ./updatedData/dataMillBioP3C2.xlsx ./out P3C2
+python3 mainMPBRAP.py ./updatedData/data.xlsx ./updatedData/dataMillBioP4C1.xlsx ./out P4C1
+python3 mainMPBRAP.py ./updatedData/data.xlsx ./updatedData/dataMillBioP4C2.xlsx ./out P4C2

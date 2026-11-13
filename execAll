@@ -1,0 +1,10 @@
+qsub MPBRAP1.job
+qsub MPBRAP2.job
+qsub MPBRAP3.job
+qsub MPBRAP4.job
+qsub MPBRAP5.job
+qsub MPBRAP6.job
+qsub MPBRAP7.job
+qsub MPBRAP8.job
+qsub MPBRAP9.job
+qsub MPBRAP10.job
